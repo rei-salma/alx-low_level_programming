@@ -1,6 +1,7 @@
 #include "main.h"
 	/**
-	 * main - print _putchar
+	 * main will print _putchar
+	 * is written by Rei
 	 * Return: 0
 	 */
 
